@@ -1,0 +1,5 @@
+get Skyview(600,Default,"DSS2 Red",Tan,J2000,0,NN) $1
+get Skyview(600,Default,"DSS2 Blue",Tan,J2000,0,NN) $1
+get NVSS(0.25,15.0,"Stokes I",Sine) $1
+contour 4
+backup /Users/julian/Desktop/$1.aj

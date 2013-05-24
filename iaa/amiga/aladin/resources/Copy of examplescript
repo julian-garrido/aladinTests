@@ -1,0 +1,4 @@
+get SDSSDR7 M99 14'
+contour 4
+cm 1008..1105 noautocut
+save /Users/julian/Documents/wf4ever/aladin/example & tests/get sdssdr7 m99 14 _contour.jpg

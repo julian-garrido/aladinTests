@@ -1,0 +1,3 @@
+get aladin(J,FITS) m2;
+save /Users/julian/Documents/wf4ever/aladin/exampleTests/m2.jpg ;
+quit
